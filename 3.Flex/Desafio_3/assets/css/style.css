@@ -1,0 +1,103 @@
+
+body {
+    background-color: black;
+    font-family: "raleway", arial;
+}
+
+.top {
+    justify-content: center;
+}
+
+.top img {
+    width: 100%;
+    height: 1050px;
+}
+
+.titulo{
+    color:white;
+    padding: 5px;
+    text-align: center;
+    font-size: 60px;
+}
+
+.contenido {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    padding: 10px;
+    align-items: center;
+    
+}
+.contenido p {
+    color: white;
+    font-size:18px;
+    width: 500px;
+}
+
+.fotoiguana {
+    height: 280px;
+    width: 450px;
+}
+
+.caracteristicas {
+    background-color: #1E1A13;
+    margin:10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.caracteristicas h2 {
+    color:white;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 130px;
+}
+
+.iconos {
+    display: flex;
+    justify-content:space-between;
+    text-align: center;
+    gap:450px;
+    
+}
+
+.iconos i {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+
+}
+
+.iconos p {
+    color:white;
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.galeria {
+    display: flex;
+    justify-content: center;
+}
+.galeria img {
+    height: 280px;
+    width: 450px;
+    padding-right: 20px;
+}
+
+.footer {
+    background-color: #1E1A13;
+    margin-top:30px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}

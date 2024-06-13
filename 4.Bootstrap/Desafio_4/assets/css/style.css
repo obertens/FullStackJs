@@ -1,0 +1,97 @@
+.texto {color:white;
+
+}
+.col { color:white;
+
+}
+
+.fondonav {
+background-color:#28A745;
+font-family: "Roboto";
+font-weight: 400;
+font-style:normal;
+color: #F8F9FA;
+border-color:#F8F9FA;
+margin-bottom:
+}
+
+.navbar-toggler-icon {
+    border-color: #F8F9FA;
+}
+
+.card-group {
+    padding-left : 3rem;
+    padding-left:;
+    
+}
+
+
+.form-container {
+    background-color: #28a745;
+    padding: 1rem;
+    color: #fff;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-style:normal;
+
+
+}
+
+.footer {
+    color: #F8F9FA ;
+    padding: 20px 0;
+    text-align: center;
+}
+.footer img {
+    max-width: 100px;
+    margin-bottom: 10px;
+}
+.card-body {
+    border-style:dashed;
+    border:1px;
+}
+.card-text {
+    border-style:dashed;
+    border:1px;
+}
+
+.tarj {
+    padding:3rem;
+}
+
+.card {
+    text-align: center;
+    border: 2px dotted #6c757d;
+    background-color: #343a40;
+    color: #212529;
+    font-family: "Roboto";
+    font-weight: 300;
+    font-style:normal;
+}
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+.form-control {
+    background-color: #495057;
+    color: #F8F9FA;
+}
+.price-old {
+    color: #adb5bd;
+    padding:1rem
+}
+.price-new {
+    color: #28a745;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+.direcc {
+    color:#adb5bd;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-style:normal;
+}
+.fa-solid {
+    width:px;
+    
+}
